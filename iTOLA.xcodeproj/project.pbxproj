@@ -1,0 +1,305 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6A5F3E171728572B00B27EF4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A5F3E161728572B00B27EF4 /* UIKit.framework */; };
+		6A5F3E191728572B00B27EF4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A5F3E181728572B00B27EF4 /* Foundation.framework */; };
+		6A5F3E1B1728572B00B27EF4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A5F3E1A1728572B00B27EF4 /* CoreGraphics.framework */; };
+		6A5F3E211728572B00B27EF4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6A5F3E1F1728572B00B27EF4 /* InfoPlist.strings */; };
+		6A5F3E231728572B00B27EF4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A5F3E221728572B00B27EF4 /* main.m */; };
+		6A5F3E271728572B00B27EF4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A5F3E261728572B00B27EF4 /* AppDelegate.m */; };
+		6A5F3E291728572B00B27EF4 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A5F3E281728572B00B27EF4 /* Default.png */; };
+		6A5F3E2B1728572B00B27EF4 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A5F3E2A1728572B00B27EF4 /* Default@2x.png */; };
+		6A5F3E2D1728572B00B27EF4 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A5F3E2C1728572B00B27EF4 /* Default-568h@2x.png */; };
+		6A5F3E301728572B00B27EF4 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A5F3E2E1728572B00B27EF4 /* MainStoryboard.storyboard */; };
+		6A5F3E331728572B00B27EF4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A5F3E321728572B00B27EF4 /* ViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6A5F3E131728572B00B27EF4 /* iTOLA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iTOLA.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A5F3E161728572B00B27EF4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		6A5F3E181728572B00B27EF4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		6A5F3E1A1728572B00B27EF4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		6A5F3E1E1728572B00B27EF4 /* iTOLA-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iTOLA-Info.plist"; sourceTree = "<group>"; };
+		6A5F3E201728572B00B27EF4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		6A5F3E221728572B00B27EF4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6A5F3E241728572B00B27EF4 /* iTOLA-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iTOLA-Prefix.pch"; sourceTree = "<group>"; };
+		6A5F3E251728572B00B27EF4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		6A5F3E261728572B00B27EF4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		6A5F3E281728572B00B27EF4 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		6A5F3E2A1728572B00B27EF4 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		6A5F3E2C1728572B00B27EF4 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		6A5F3E2F1728572B00B27EF4 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		6A5F3E311728572B00B27EF4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		6A5F3E321728572B00B27EF4 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6A5F3E101728572B00B27EF4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6A5F3E171728572B00B27EF4 /* UIKit.framework in Frameworks */,
+				6A5F3E191728572B00B27EF4 /* Foundation.framework in Frameworks */,
+				6A5F3E1B1728572B00B27EF4 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6A5F3E0A1728572B00B27EF4 = {
+			isa = PBXGroup;
+			children = (
+				6A5F3E1C1728572B00B27EF4 /* iTOLA */,
+				6A5F3E151728572B00B27EF4 /* Frameworks */,
+				6A5F3E141728572B00B27EF4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6A5F3E141728572B00B27EF4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6A5F3E131728572B00B27EF4 /* iTOLA.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6A5F3E151728572B00B27EF4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6A5F3E161728572B00B27EF4 /* UIKit.framework */,
+				6A5F3E181728572B00B27EF4 /* Foundation.framework */,
+				6A5F3E1A1728572B00B27EF4 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6A5F3E1C1728572B00B27EF4 /* iTOLA */ = {
+			isa = PBXGroup;
+			children = (
+				6A5F3E251728572B00B27EF4 /* AppDelegate.h */,
+				6A5F3E261728572B00B27EF4 /* AppDelegate.m */,
+				6A5F3E2E1728572B00B27EF4 /* MainStoryboard.storyboard */,
+				6A5F3E311728572B00B27EF4 /* ViewController.h */,
+				6A5F3E321728572B00B27EF4 /* ViewController.m */,
+				6A5F3E1D1728572B00B27EF4 /* Supporting Files */,
+			);
+			path = iTOLA;
+			sourceTree = "<group>";
+		};
+		6A5F3E1D1728572B00B27EF4 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6A5F3E1E1728572B00B27EF4 /* iTOLA-Info.plist */,
+				6A5F3E1F1728572B00B27EF4 /* InfoPlist.strings */,
+				6A5F3E221728572B00B27EF4 /* main.m */,
+				6A5F3E241728572B00B27EF4 /* iTOLA-Prefix.pch */,
+				6A5F3E281728572B00B27EF4 /* Default.png */,
+				6A5F3E2A1728572B00B27EF4 /* Default@2x.png */,
+				6A5F3E2C1728572B00B27EF4 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6A5F3E121728572B00B27EF4 /* iTOLA */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6A5F3E361728572B00B27EF4 /* Build configuration list for PBXNativeTarget "iTOLA" */;
+			buildPhases = (
+				6A5F3E0F1728572B00B27EF4 /* Sources */,
+				6A5F3E101728572B00B27EF4 /* Frameworks */,
+				6A5F3E111728572B00B27EF4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iTOLA;
+			productName = iTOLA;
+			productReference = 6A5F3E131728572B00B27EF4 /* iTOLA.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6A5F3E0B1728572B00B27EF4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Isaac Gonzalvez";
+			};
+			buildConfigurationList = 6A5F3E0E1728572B00B27EF4 /* Build configuration list for PBXProject "iTOLA" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6A5F3E0A1728572B00B27EF4;
+			productRefGroup = 6A5F3E141728572B00B27EF4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6A5F3E121728572B00B27EF4 /* iTOLA */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6A5F3E111728572B00B27EF4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6A5F3E211728572B00B27EF4 /* InfoPlist.strings in Resources */,
+				6A5F3E291728572B00B27EF4 /* Default.png in Resources */,
+				6A5F3E2B1728572B00B27EF4 /* Default@2x.png in Resources */,
+				6A5F3E2D1728572B00B27EF4 /* Default-568h@2x.png in Resources */,
+				6A5F3E301728572B00B27EF4 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6A5F3E0F1728572B00B27EF4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6A5F3E231728572B00B27EF4 /* main.m in Sources */,
+				6A5F3E271728572B00B27EF4 /* AppDelegate.m in Sources */,
+				6A5F3E331728572B00B27EF4 /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		6A5F3E1F1728572B00B27EF4 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6A5F3E201728572B00B27EF4 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		6A5F3E2E1728572B00B27EF4 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6A5F3E2F1728572B00B27EF4 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6A5F3E341728572B00B27EF4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		6A5F3E351728572B00B27EF4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6A5F3E371728572B00B27EF4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iTOLA/iTOLA-Prefix.pch";
+				INFOPLIST_FILE = "iTOLA/iTOLA-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		6A5F3E381728572B00B27EF4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iTOLA/iTOLA-Prefix.pch";
+				INFOPLIST_FILE = "iTOLA/iTOLA-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6A5F3E0E1728572B00B27EF4 /* Build configuration list for PBXProject "iTOLA" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6A5F3E341728572B00B27EF4 /* Debug */,
+				6A5F3E351728572B00B27EF4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6A5F3E361728572B00B27EF4 /* Build configuration list for PBXNativeTarget "iTOLA" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6A5F3E371728572B00B27EF4 /* Debug */,
+				6A5F3E381728572B00B27EF4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6A5F3E0B1728572B00B27EF4 /* Project object */;
+}
