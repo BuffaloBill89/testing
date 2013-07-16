@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RootNavigationViewController.h
 //  iTOLA
 //
 //  Created by Isaac Gonzalvez on 24/04/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface RootNavigationViewController : UINavigationController
 
 @end

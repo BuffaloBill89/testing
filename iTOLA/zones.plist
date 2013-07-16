@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Zona 1</key>
+	<array>
+		<string>Badalona</string>
+		<string>Barcelona</string>
+		<string>Castelldefels</string>
+		<string>Cornellà de Llobregat</string>
+		<string>Esplugues de Llobregat</string>
+		<string>Gavà</string>
+		<string>L&apos;Hospitalet de Llobregat</string>
+		<string>Montcada i Reixac</string>
+		<string>Montgat</string>
+		<string>El Prat de Llobregat</string>
+		<string>Sant Adrià de Besòs</string>
+		<string>Sant Boi de Llobregat</string>
+		<string>Sant Feliu de Llobregat</string>
+		<string>Sant Joan Despí</string>
+		<string>Sant Just Desvern</string>
+		<string>Santa Coloma de Gramanet</string>
+		<string>Tiana</string>
+		<string>Viladecans</string>
+	</array>
+	<key>Zona 2</key>
+	<array>
+		<string>Alella</string>
+		<string>Badia del Vallès</string>
+		<string>Barberà del Vallès</string>
+		<string>Begues</string>
+		<string>Cabrils</string>
+		<string>Castellbisbal</string>
+		<string>Cerdanyola del Vallès</string>
+		<string>Cervelló</string>
+		<string>Corbera de Llobregat</string>
+		<string>Garraf(Sitges)</string>
+		<string>La Llagosta</string>
+		<string>Martorelles</string>
+		<string>El Masnou</string>
+		<string>Molins de Rei</string>
+		<string>Mollet del Vallès</string>
+		<string>Montmeló</string>
+		<string>Montornès del Vallès</string>
+		<string>Palau-solità i Plegamans</string>
+		<string>Pallejà</string>
+		<string>La Palma de Cervelló</string>
+		<string>El Papiol</string>
+		<string>Parets del Vallès</string>
+		<string>Polinyà</string>
+		<string>Premià de Dalt</string>
+		<string>Premià de Mar</string>
+		<string>Ripollet</string>
+		<string>Rubí</string>
+		<string>Sabadell</string>
+		<string>Sant Andreu de la Barca</string>
+		<string>Sant Clliment de Llobregat</string>
+		<string>Sant Cugat del Vallès</string>
+		<string>Sant Fost de Campsentelles</string>
+		<string>Sant Quirze del Vallès</string>
+		<string>Sant Vicenç dels Horts</string>
+		<string>Santa Coloma de Cervelló</string>
+		<string>Santa Maria de Martorelles</string>
+		<string>Santa Perpètua de Mogoda</string>
+		<string>Teià</string>
+		<string>Torrelles de Llobregat</string>
+		<string>Vallirana</string>
+		<string>Vallromanes</string>
+		<string>Vilassar de Dalt</string>
+		<string>Vilassar de Mar</string>
+	</array>
+	<key>Zona 3</key>
+	<array>
+		<string>Abrera</string>
+		<string>Argentona</string>
+		<string>Avinyonet del Penedès</string>
+		<string>Cabrera de Mar</string>
+		<string>Caldes d&apos;Estrac</string>
+		<string>Caldes de Montbui</string>
+		<string>Canovelles</string>
+		<string>Cardedeu</string>
+		<string>Castellar del Vallès</string>
+		<string>Castellví de Rosanes</string>
+		<string>Dosrius</string>
+		<string>Esparreguera</string>
+		<string>Les Franqueses del Vallès</string>
+		<string>Gelida</string>
+		<string>Granollers</string>
+		<string>La Roca del Vallès</string>
+		<string>Lliçà d&apos;Amunt</string>
+		<string>Lliçà de Vall</string>
+		<string>Llinars del Vallès</string>
+		<string>Martorell</string>
+		<string>Matadepera</string>
+		<string>Mataró</string>
+		<string>Olesa de Bonesvalls</string>
+		<string>Olesa de Montserrat</string>
+		<string>Olivella</string>
+		<string>Òrrius</string>
+		<string>Sant Andreu de Llavaneres</string>
+		<string>Sant Antoni de Vilamajor</string>
+		<string>Sant Esteve de Sesrovires</string>
+		<string>Sant Llorenç d&apos;Hortons</string>
+		<string>Sant Llorenç Savall</string>
+		<string>Sant Pere de Ribes</string>
+		<string>Sant Sadurní d&apos;Anoia</string>
+		<string>Sant Vicenç de Monalt</string>
+		<string>Santa Eulàlia de Ronçana</string>
+		<string>Sentmenat</string>
+		<string>Sitges</string>
+		<string>Terrassa</string>
+		<string>Ullastrell</string>
+		<string>Viladecavalls</string>
+		<string>Vilanova del Vallès</string>
+	</array>
+	<key>Zona 4</key>
+	<array>
+		<string>Aiguafreda</string>
+		<string>L&apos;Ametlla del Vallès</string>
+		<string>Arenys de Mar</string>
+		<string>Arenys de Munt</string>
+		<string>Bigues i Riells</string>
+		<string>Breda</string>
+		<string>Les Cabanyes</string>
+		<string>Cabrera d&apos;Anoia</string>
+		<string>Calella</string>
+		<string>Campins</string>
+		<string>Canet de Mar</string>
+		<string>Cànoves i Samalús</string>
+		<string>Canyelles</string>
+		<string>Castellcir</string>
+		<string>Castellet i la Gornal</string>
+		<string>Castellterçol</string>
+		<string>Castellví de la Marca</string>
+		<string>Collbató</string>
+		<string>Cubelles</string>
+		<string>Figaró-Montmany</string>
+		<string>Fogars de Montclús</string>
+		<string>Font-Rubí</string>
+		<string>Gallifa</string>
+		<string>La Garriga</string>
+		<string>La Granada</string>
+		<string>Granera</string>
+		<string>Gualba</string>
+		<string>Els Hostalets de Pierola</string>
+		<string>Masquefa</string>
+		<string>Mediona</string>
+		<string>Monistrol de Montserrat</string>
+		<string>Montseny</string>
+		<string>Olèrdola</string>
+		<string>Pacs del Penedès</string>
+		<string>Piera</string>
+		<string>Pineda de Mar</string>
+		<string>El Pla del Penedès</string>
+		<string>Pontons</string>
+		<string>Puigdàlber</string>
+		<string>Rellinars</string>
+		<string>Riells i Viabrera</string>
+		<string>Sant Cebrià de Vallalta</string>
+		<string>Sant Celoni</string>
+		<string>Sant Cugat Sesgarrigues</string>
+		<string>Sant Esteve de Palautordera</string>
+		<string>Sant Feliu de Codines</string>
+		<string>Sant Iscle de Vallalta</string>
+		<string>Sant Martí de Centelles</string>
+		<string>Sant Martí Sarroca</string>
+		<string>Sant Pere de Riudebitlles</string>
+		<string>Sant Pere de Vilamajor</string>
+		<string>Sant Pol de Mar</string>
+		<string>Sant Quintí de Mediona</string>
+		<string>Sant Quirze Safaja</string>
+		<string>Santa Fe del Penedès</string>
+		<string>Santa Margarida i els Monjos</string>
+		<string>Santa Maria de Palautordera</string>
+		<string>Tagamanent</string>
+		<string>Torrelavit</string>
+		<string>Torrelles de Foix</string>
+		<string>Vacarisses</string>
+		<string>Vallgorguina</string>
+		<string>Vilafranca del Penedès</string>
+		<string>Vilaba Sasserra</string>
+		<string>Vilanova i la Geltrú</string>
+		<string>Vilobí del Penedès</string>
+	</array>
+	<key>Zona 5</key>
+	<array>
+		<string>L&apos;Arboç</string>
+		<string>Balenyà</string>
+		<string>Bellprat</string>
+		<string>Bellvei</string>
+		<string>Blanes</string>
+		<string>El Bruc</string>
+		<string>Calafell</string>
+		<string>Capellades</string>
+		<string>Carme</string>
+		<string>Castellbell i el Vilar</string>
+		<string>Castellgalí</string>
+		<string>Castellolí</string>
+		<string>Centelles</string>
+		<string>Cunit</string>
+		<string>Fogars de la Selva</string>
+		<string>Hostalric</string>
+		<string>La Llacuna</string>
+		<string>La Pobla de Claramunt</string>
+		<string>Malgrat de Mar</string>
+		<string>Malla</string>
+		<string>Marganell</string>
+		<string>Moià</string>
+		<string>Mura</string>
+		<string>Orpí</string>
+		<string>Palafolls</string>
+		<string>El Pont de Vilomara i Rocafort</string>
+		<string>Sant Vicenç de Castellet</string>
+		<string>Santa Maria de Miralles</string>
+		<string>Santa Oliva</string>
+		<string>Santa Susanna</string>
+		<string>Seva</string>
+		<string>Talamanca</string>
+		<string>Taradell</string>
+		<string>Tona</string>
+		<string>Tordera</string>
+		<string>La Torre de Claramunt</string>
+		<string>Vallbona d&apos;Anoia</string>
+	</array>
+	<key>Zona 6</key>
+	<array>
+		<string>Aguillar de Segarra</string>
+		<string>Argençola</string>
+		<string>Artés</string>
+		<string>Avinyó</string>
+		<string>Balsareny</string>
+		<string>Calaf</string>
+		<string>Calders</string>
+		<string>Callús</string>
+		<string>Calonge de Segarra</string>
+		<string>Cardona</string>
+		<string>Castellfollit del Boix</string>
+		<string>Castellfollit de Riubregós</string>
+		<string>Castellnou de Bages</string>
+		<string>Copons</string>
+		<string>L&apos;Estany</string>
+		<string>Fonollosa</string>
+		<string>Gaià</string>
+		<string>Igualada</string>
+		<string>Jorba</string>
+		<string>Maçanet de la Selva</string>
+		<string>Manresa</string>
+		<string>Massanes</string>
+		<string>Monistrol de Calders</string>
+		<string>Montmaneu</string>
+		<string>Navarcles</string>
+		<string>Navàs</string>
+		<string>Òdena</string>
+		<string>Els Prats de Rei</string>
+		<string>Pujalt</string>
+		<string>Rajadell</string>
+		<string>Rubió</string>
+		<string>Sallent</string>
+		<string>Sant Feliu Sasserra</string>
+		<string>Sant Fruitós de Bages</string>
+		<string>Sant Joan de Vilatorrada</string>
+		<string>Sant Martí Sesgueioles</string>
+		<string>Sant Marti de Tous</string>
+		<string>Sant Mateu de Bages</string>
+		<string>Sant Pere Sallavinera</string>
+		<string>Sant Salvador de Guardiola</string>
+		<string>Santa Margarida de Montbui</string>
+		<string>Santa Maria d&apos;Oló</string>
+		<string>Santpedor</string>
+		<string>Súria</string>
+		<string>Veciana</string>
+		<string>El Vendrell</string>
+		<string>Vic</string>
+		<string>Vilanova del Camí</string>
+	</array>
+</dict>
+</plist>
